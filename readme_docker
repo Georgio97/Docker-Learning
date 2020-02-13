@@ -1,0 +1,12 @@
+# START DOCKER
+- sudo systemctl start docker
+
+# BUILD
+- docker-compose build
+
+# RUN
+- docker-compose up
+
+# URL
+127.0.0.1:5000
+127.0.0.1:5001
