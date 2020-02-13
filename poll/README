@@ -1,0 +1,2 @@
+no specific name:
+    sudo docker run -it --rm --name python-app app.py
